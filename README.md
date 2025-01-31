@@ -6,7 +6,7 @@ Aspiring Software Engineer enrolled in a Computer Systems Engineering program, w
 
 - Email: goodtimescoding@outlook.com
 - GitHub: https://github.com/dev-alvarez
-- LinkedIn: linkedin.com/in/alvarez-dev
+- LinkedIn: https://www.linkedin.com/in/alvarez-dev
 
 ## Education
 
