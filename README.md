@@ -1,5 +1,6 @@
 # Jose Alvarez
-Aspiring Software Engineer enrolled in a Computer Systems Engineering program with a strong passion for Computer Science principles and Linux.
+
+Aspiring Software Engineer enrolled in a Computer Systems Engineering program, with a strong passion for Computer Science principles and Linux
 
 ## Contact
 
